@@ -1,0 +1,27 @@
+Ticket transcript: #165hzabuser
+
+[2025-06-03 13:34:56] Zerkoo Services#5565:
+  <@&1377670931618730075> <@&1377671096693821483> <@&1377670527589810308> <@&1377670307401306263> <@&1377669862977179740> <@&1377669672098594896>
+  — EMBED —
+    Title     : A new ticket has been opened.
+    Content : Opened by <@1350853511553880145>
+
+**Related commands:**
+`+close` To close the ticket
+`+rename` To rename the ticket
+`+ your message` To talk between staff without sending it to the member
+`+bl` To blacklist ticket creator (Can't anymore open tickets)
+
+[2025-06-03 13:35:01] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : ti bra n3n dir rbk
+
+[2025-06-03 13:35:06] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : 9alo b3d il 3id
+
+[2025-06-03 13:35:15] zerkoo2:
+  +bl
+
