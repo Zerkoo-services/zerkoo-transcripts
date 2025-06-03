@@ -1,0 +1,63 @@
+Ticket transcript: #165hzabuser
+
+[2025-06-03 13:30:53] Zerkoo Services#5565:
+  <@&1377670931618730075> <@&1377671096693821483> <@&1377670527589810308> <@&1377670307401306263> <@&1377669862977179740> <@&1377669672098594896>
+  — EMBED —
+    Title     : A new ticket has been opened.
+    Content : Opened by <@1350853511553880145>
+
+**Related commands:**
+`+close` To close the ticket
+`+rename` To rename the ticket
+`+ your message` To talk between staff without sending it to the member
+`+bl` To blacklist ticket creator (Can't anymore open tickets)
+
+[2025-06-03 13:31:00] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : slm a zebo
+
+[2025-06-03 13:31:06] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : n7eb nechri gta
+
+[2025-06-03 13:31:09] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : we red dead
+
+[2025-06-03 13:31:11] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : we spotify
+
+[2025-06-03 13:31:51] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : ya bot ta3 zebi
+
+[2025-06-03 13:31:52] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : nk omk
+
+[2025-06-03 13:34:11] zerkoo2:
+  server off hata b3d l3id bch nchriw reseller wkolchay mach thl ticket rani ena lzm mykon fih had server ett 5alitk hakeka
+
+[2025-06-03 13:34:27] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : yedi n7eb nechri
+
+[2025-06-03 13:34:29] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : fast
+
+[2025-06-03 13:34:45] zerkoo2:
+  b3d l3id ija
+
+[2025-06-03 13:34:50] zerkoo2:
+  +close
+
