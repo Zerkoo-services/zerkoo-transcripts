@@ -1,0 +1,33 @@
+Ticket transcript: #4uth
+
+[2025-06-04 22:31:29] Zerkoo Services#5565:
+  <@&1377670931618730075> <@&1377671096693821483> <@&1377670527589810308> <@&1377670307401306263> <@&1377669862977179740> <@&1377669672098594896>
+  — EMBED —
+    Title     : A new ticket has been opened.
+    Content : Opened by <@902284432113811526>
+
+**Related commands:**
+`+close` To close the ticket
+`+rename` To rename the ticket
+`+ your message` To talk between staff without sending it to the member
+`+bl` To blacklist ticket creator (Can't anymore open tickets)
+
+[2025-06-04 22:31:42] zerkoo2:
+  asba
+
+[2025-06-04 22:31:45] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : zerko like shit 420 services ftww
+
+[2025-06-04 22:31:57] zerkoo2:
+  bara asba ett w omar
+
+[2025-06-04 22:32:05] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : putian merde
+
+[2025-06-04 22:32:09] zerkoo2:
+  +bl
+
