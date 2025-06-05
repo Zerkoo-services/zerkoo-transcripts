@@ -1,0 +1,25 @@
+Ticket transcript: #buy-hx
+
+[2025-06-05 14:56:41] Zerkoo Services#5565:
+  <@&1377670931618730075> <@&1377671096693821483> <@&1377670527589810308> <@&1377670307401306263> <@&1377669862977179740> <@&1377669672098594896>
+  — EMBED —
+    Title     : Ticket ouvert
+    Content : Type: **BUY**
+Opened by <@1038210393094492241>
+
+**Related commands:**
+`+rename` To rename the ticket
+`+ your message` To talk between staff without sending it to the member
+`+bl` To blacklist ticket creator (Can't anymore open tickets)
+
+[2025-06-05 14:56:48] its3dem:
+  test
+
+[2025-06-05 14:56:55] Zerkoo Services#5565:
+  — EMBED —
+    Title     : Message from user :
+    Content : sdsd
+
+[2025-06-05 14:57:03] its3dem:
+  +rename buy hx
+
