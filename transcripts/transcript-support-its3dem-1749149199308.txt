@@ -1,0 +1,18 @@
+Ticket transcript: #support-its3dem
+
+[2025-06-05 18:46:23] Zerkoo Services#5565:
+  <@&1377670931618730075> <@&1377671096693821483> <@&1377670527589810308> <@&1377670307401306263> <@&1377669862977179740> <@&1377669672098594896>
+  — EMBED —
+    Title     : <a:im_purple_star:1379668458861498450> Zerkoo Ticket
+    Content : Type: **SUPPORT**
+Opened by <@708643597565689877>
+
+**Related commands:**
+`+rename` To rename the ticket
+`+ your message` To talk between staff without sending it to the member
+`+bl` To blacklist ticket creator (Can't anymore open tickets)
+
+[2025-06-05 18:46:38] Zerkoo Services#5565:
+  — EMBED —
+    Content : Closing ticket...
+
