@@ -1,0 +1,25 @@
+Ticket transcript: #reseller-its3dem
+
+[2025-06-05 16:27:41] Zerkoo Services#5565:
+  <@&1377670931618730075> <@&1377671096693821483> <@&1377670527589810308> <@&1377670307401306263> <@&1377669862977179740> <@&1377669672098594896>
+  — EMBED —
+    Title     : <a:im_purple_star:1379668458861498450> Zerkoo Ticket
+    Content : Type: **RESELLER**
+Opened by <@1038210393094492241>
+
+**Related commands:**
+`+rename` To rename the ticket
+`+ your message` To talk between staff without sending it to the member
+`+bl` To blacklist ticket creator (Can't anymore open tickets)
+
+[2025-06-05 16:27:48] its3dem:
+  test
+
+[2025-06-05 16:27:58] Zerkoo Services#5565:
+  — EMBED —
+    Title     : <:Ticket:1379666954016653414> Message from user :
+    Content : test
+
+[2025-06-05 16:28:17] its3dem:
+  +bl
+
