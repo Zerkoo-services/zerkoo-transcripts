@@ -1,0 +1,23 @@
+Ticket transcript: #support-xxxxxxxx
+
+[2025-06-06 16:21:07] Zerkoo Services#5565:
+  <@&1377670931618730075> <@&1377671096693821483> <@&1377670527589810308> <@&1377670307401306263> <@&1377669862977179740> <@&1377669672098594896>
+  — EMBED —
+    Title     : <a:im_purple_star:1379668458861498450> Zerkoo Ticket
+    Content : Type: **SUPPORT**
+Opened by <@1312790695722877030>
+
+**Related commands:**
+`+rename` To rename the ticket
+`+ your message` To talk between staff without sending it to the member
+`+bl` To blacklist ticket creator (Can't anymore open tickets)
+`+invite <staffID>` To invite a staff member to the ticket (claimer only)
+
+[2025-06-06 16:21:28] x.xx.xxx.x.x:
+  hello how can i help you?
+
+[2025-06-06 16:21:42] Zerkoo Services#5565:
+  — EMBED —
+    Title     : <:Ticket:1379666954016653414> Message from user :
+    Content : n7ib nchri nitro
+
